@@ -1,0 +1,78 @@
+Hello-World examples index
+==========================
+Paths are relative to this `examples/` directory.
+
+1950s–1960s (early pioneers)
+----------------------------
+1950s-1960s/hello.f90              Fortran 90
+1950s-1960s/hello.cob              COBOL
+1950s-1960s/hello.lisp             Common Lisp
+1950s-1960s/hello.alg              Algol 68 Genie (a68g)
+1950s-1960s/hello.bas              BASIC
+1950s-1960s/assembly/hello_x86_64_linux.asm   x86-64 Linux (NASM)
+1950s-1960s/assembly/hello_aarch64_linux.s  AArch64 Linux (GNU as)
+1950s-1960s/assembly/hello_riscv32.s          RISC-V 32 (GNU as)
+1950s-1960s/assembly/hello_mips32_linux.s     MIPS32 Linux (GNU as)
+
+1970s–1980s
+-----------
+1970s-1980s/hello.c                C
+1970s-1980s/hello.pas              Pascal
+1970s-1980s/hello.sql              SQL
+1970s-1980s/hello.st               Smalltalk (GNU Smalltalk)
+1970s-1980s/hello.adb              Ada
+1970s-1980s/hello_prolog.pro       Prolog (SWI-Prolog)
+1970s-1980s/hello.fth              Forth (Gforth)
+1970s-1980s/hello.m                Objective-C (clang + Foundation)
+
+late-1980s–1990s
+----------------
+late-1980s-1990s/hello.cpp         C++
+late-1980s-1990s/hello.pl          Perl
+late-1980s-1990s/hello.py          Python
+late-1980s-1990s/hello.rb          Ruby
+late-1980s-1990s/HelloWorld.java   Java
+late-1980s-1990s/hello.js          JavaScript
+late-1980s-1990s/hello.php         PHP
+late-1980s-1990s/hello.hs          Haskell
+late-1980s-1990s/hello.lua         Lua
+late-1980s-1990s/hello.R           R
+late-1980s-1990s/hello.vb          Visual Basic .NET
+late-1980s-1990s/hello_delphi.pas  Delphi / Object Pascal
+late-1980s-1990s/hello.erl         Erlang
+late-1980s-1990s/hello.m           MATLAB / Octave
+
+2000s
+-----
+2000s/Hello.cs                     C#
+2000s/hello.scala                  Scala
+2000s/hello.groovy                 Groovy
+2000s/hello.d                      D
+2000s/hello.as                     ActionScript 3
+2000s/hello.fs                     F#
+
+2010s–present
+-------------
+2010s-present/hello.go             Go
+2010s-present/hello.rs             Rust
+2010s-present/hello.swift          Swift
+2010s-present/hello.kt             Kotlin
+2010s-present/hello.ts             TypeScript
+2010s-present/hello.dart           Dart
+2010s-present/hello.jl             Julia
+2010s-present/hello.exs            Elixir
+2010s-present/hello.zig            Zig
+2010s-present/hello.mojo           Mojo
+
+Domain-specific & shells
+------------------------
+domain-specific/hello.sh           Bash
+domain-specific/hello.ps1          PowerShell
+domain-specific/hello.vhdl         VHDL
+domain-specific/hello.v            Verilog
+domain-specific/LabVIEW_G.txt      LabVIEW / G (instructions)
+domain-specific/hello.sol          Solidity
+domain-specific/hello.abap         ABAP
+domain-specific/hello.mumps        MUMPS
+domain-specific/scratch/README.txt Scratch (instructions)
+domain-specific/hello.wl           Wolfram Language

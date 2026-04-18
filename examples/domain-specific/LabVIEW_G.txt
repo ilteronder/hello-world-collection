@@ -1,0 +1,7 @@
+LabVIEW / G — graphical dataflow for test & automation
+--------------------------------------------------------
+There is no single-line text source for a native .vi file here. In LabVIEW:
+  1. Drop a string constant with: Hello, World!
+  2. Wire it to the "Write to Console" express VI (or use "One Button Dialog").
+
+This folder documents the pattern instead of shipping a binary VI.
